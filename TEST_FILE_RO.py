@@ -1,2 +1,5 @@
-def something_useful(x, y):
+def something_useful():
     return x * y
+
+def something():
+    pass
